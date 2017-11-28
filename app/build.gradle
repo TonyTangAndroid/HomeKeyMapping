@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android-extensions'
 
 android {
 
-    compileSdkVersion 25
+    compileSdkVersion 26
     buildToolsVersion "26.0.2"
 
     sourceSets {
@@ -16,7 +16,7 @@ android {
     }
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 25
+        targetSdkVersion 26
     }
 }
 
